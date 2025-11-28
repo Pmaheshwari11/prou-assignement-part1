@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Amit Sharma",
+    "email": "amit.sharma@company.com",
+    "role": "Senior Frontend Engineer",
+    "department": "Engineering",
+    "location": "Bangalore, India",
+    "status": "active",
+    "joinDate": "2021-03-15",
+    "avatar": "AS"
+  },
+  {
+    "id": 2,
+    "name": "Priya Verma",
+    "email": "priya.verma@company.com",
+    "role": "Backend Developer",
+    "department": "Engineering",
+    "location": "Mumbai, India",
+    "status": "active",
+    "joinDate": "2022-01-20",
+    "avatar": "PV"
+  },
+  {
+    "id": 3,
+    "name": "Rahul Mehta",
+    "email": "rahul.mehta@company.com",
+    "role": "Lead UI/UX Designer",
+    "department": "Design",
+    "location": "Delhi, India",
+    "status": "active",
+    "joinDate": "2020-11-10",
+    "avatar": "RM"
+  },
+  {
+    "id": 4,
+    "name": "Neha Kapoor",
+    "email": "neha.kapoor@company.com",
+    "role": "Product Manager",
+    "department": "Product",
+    "location": "Pune, India",
+    "status": "active",
+    "joinDate": "2021-08-05",
+    "avatar": "NK"
+  },
+  {
+    "id": 5,
+    "name": "Vikram Singh",
+    "email": "vikram.singh@company.com",
+    "role": "DevOps Engineer",
+    "department": "Engineering",
+    "location": "Hyderabad, India",
+    "status": "on-leave",
+    "joinDate": "2022-06-12",
+    "avatar": "VS"
+  },
+  {
+    "id": 6,
+    "name": "Ananya Desai",
+    "email": "ananya.desai@company.com",
+    "role": "Graphic Designer",
+    "department": "Design",
+    "location": "Ahmedabad, India",
+    "status": "active",
+    "joinDate": "2023-02-28",
+    "avatar": "AD"
+  },
+  {
+    "id": 7,
+    "name": "Rohan Patel",
+    "email": "rohan.patel@company.com",
+    "role": "Full Stack Developer",
+    "department": "Engineering",
+    "location": "Chennai, India",
+    "status": "active",
+    "joinDate": "2022-09-18",
+    "avatar": "RP"
+  },
+  {
+    "id": 8,
+    "name": "Sanya Reddy",
+    "email": "sanya.reddy@company.com",
+    "role": "HR Manager",
+    "department": "Human Resources",
+    "location": "Bangalore, India",
+    "status": "active",
+    "joinDate": "2020-05-22",
+    "avatar": "SR"
+  },
+  {
+    "id": 9,
+    "name": "Arjun Malhotra",
+    "email": "arjun.malhotra@company.com",
+    "role": "Data Scientist",
+    "department": "Data",
+    "location": "Remote",
+    "status": "active",
+    "joinDate": "2023-04-01",
+    "avatar": "AM"
+  },
+  {
+    "id": 10,
+    "name": "Kavya Nair",
+    "email": "kavya.nair@company.com",
+    "role": "Marketing Lead",
+    "department": "Marketing",
+    "location": "Kochi, India",
+    "status": "active",
+    "joinDate": "2021-12-10",
+    "avatar": "KN"
+  },
+  {
+    "id": 11,
+    "name": "Ishaan Gupta",
+    "email": "ishaan.gupta@company.com",
+    "role": "Mobile Developer",
+    "department": "Engineering",
+    "location": "Noida, India",
+    "status": "active",
+    "joinDate": "2023-07-15",
+    "avatar": "IG"
+  },
+  {
+    "id": 12,
+    "name": "Tara Bhatia",
+    "email": "tara.bhatia@company.com",
+    "role": "Content Strategist",
+    "department": "Marketing",
+    "location": "Gurgaon, India",
+    "status": "active",
+    "joinDate": "2022-11-03",
+    "avatar": "TB"
+  },
+  {
+    "id": 13,
+    "name": "Siddharth Joshi",
+    "email": "siddharth.joshi@company.com",
+    "role": "QA Engineer",
+    "department": "Engineering",
+    "location": "Jaipur, India",
+    "status": "active",
+    "joinDate": "2023-01-25",
+    "avatar": "SJ"
+  },
+  {
+    "id": 14,
+    "name": "Meera Iyer",
+    "email": "meera.iyer@company.com",
+    "role": "UX Researcher",
+    "department": "Design",
+    "location": "Coimbatore, India",
+    "status": "active",
+    "joinDate": "2022-08-19",
+    "avatar": "MI"
+  },
+  {
+    "id": 15,
+    "name": "Aditya Rao",
+    "email": "aditya.rao@company.com",
+    "role": "Engineering Manager",
+    "department": "Engineering",
+    "location": "Bangalore, India",
+    "status": "active",
+    "joinDate": "2020-09-01",
+    "avatar": "AR"
+  },
+  {
+    "id": 16,
+    "name": "Riya Sen",
+    "email": "riya.sen@company.com",
+    "role": "Sales Executive",
+    "department": "Sales",
+    "location": "Kolkata, India",
+    "status": "active",
+    "joinDate": "2023-05-11",
+    "avatar": "RS"
+  },
+  {
+    "id": 17,
+    "name": "Kabir Khan",
+    "email": "kabir.khan@company.com",
+    "role": "Cloud Architect",
+    "department": "Engineering",
+    "location": "Remote",
+    "status": "active",
+    "joinDate": "2021-10-30",
+    "avatar": "KK"
+  },
+  {
+    "id": 18,
+    "name": "Zoya Ahmed",
+    "email": "zoya.ahmed@company.com",
+    "role": "Recruiter",
+    "department": "Human Resources",
+    "location": "Lucknow, India",
+    "status": "active",
+    "joinDate": "2023-03-14",
+    "avatar": "ZA"
+  },
+  {
+    "id": 19,
+    "name": "Aarav Malhotra",
+    "email": "aarav.malhotra@company.com",
+    "role": "Junior Developer",
+    "department": "Engineering",
+    "location": "Chandigarh, India",
+    "status": "active",
+    "joinDate": "2024-01-08",
+    "avatar": "AM"
+  },
+  {
+    "id": 20,
+    "name": "Diya Khanna",
+    "email": "diya.khanna@company.com",
+    "role": "Brand Designer",
+    "department": "Design",
+    "location": "Mumbai, India",
+    "status": "active",
+    "joinDate": "2023-09-20",
+    "avatar": "DK"
+  }
+]

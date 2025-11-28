@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "title": "Design new landing page hero section",
+    "description": "Create modern hero with gradient background and animated elements",
+    "status": "Completed",
+    "assignedTo": "Rahul Mehta",
+    "priority": "high",
+    "dueDate": "2025-11-15",
+    "labels": ["design", "urgent"],
+    "createdAt": "2025-10-20"
+  },
+  {
+    "id": 2,
+    "title": "Implement user authentication with JWT",
+    "description": "Set up login/signup flow with refresh tokens",
+    "status": "In Progress",
+    "assignedTo": "Priya Verma",
+    "_sql": "Backend Developer",
+    "priority": "critical",
+    "dueDate": "2025-11-28",
+    "labels": ["backend", "security"],
+    "createdAt": "2025-11-10"
+  },
+  {
+    "id": 3,
+    "title": "Fix mobile responsive issues on dashboard",
+    "description": "Grid breaks on tablets, cards overflow",
+    "status": "Pending",
+    "assignedTo": "Amit Sharma",
+    "priority": "high",
+    "dueDate": "2025-11-30",
+    "labels": ["bug", "mobile"],
+    "createdAt": "2025-11-25"
+  },
+  {
+    "id": 4,
+    "title": "Add dark mode toggle to user settings",
+    "status": "Completed",
+    "assignedTo": "Amit Sharma",
+    "priority": "medium",
+    "dueDate": "2025-11-20",
+    "labels": ["feature", "ui"],
+    "createdAt": "2025-11-01"
+  },
+  {
+    "id": 5,
+    "title": "Set up CI/CD pipeline with GitHub Actions",
+    "status": "In Progress",
+    "assignedTo": "Vikram Singh",
+    "priority": "high",
+    "dueDate": "2025-12-05",
+    "labels": ["devops", "infrastructure"],
+    "createdAt": "2025-11-18"
+  },
+  {
+    "id": 6,
+    "title": "Create onboarding flow for new users",
+    "status": "Pending",
+    "assignedTo": "Neha Kapoor",
+    "priority": "medium",
+    "dueDate": "2025-12-10",
+    "labels": ["ux", "product"],
+    "createdAt": "2025-11-22"
+  },
+  {
+    "id": 7,
+    "title": "Optimize database queries for task list",
+    "status": "Pending",
+    "assignedTo": "Rohan Patel",
+    "priority": "high",
+    "dueDate": "2025-12-02",
+    "labels": ["performance", "backend"],
+    "createdAt": "2025-11-26"
+  },
+  {
+    "id": 8,
+    "title": "Design brand illustrations pack",
+    "status": "In Progress",
+    "assignedTo": "Ananya Desai",
+    "priority": "low",
+    "dueDate": "2025-12-15",
+    "labels": ["design", "creative"],
+    "createdAt": "2025-11-15"
+  },
+  {
+    "id": 9,
+    "title": "Write API documentation",
+    "status": "Completed",
+    "assignedTo": "Priya Verma",
+    "priority": "medium",
+    "dueDate": "2025-11-18",
+    "labels": ["documentation"],
+    "createdAt": "2025-11-05"
+  },
+  {
+    "id": 10,
+    "title": "Implement real-time notifications with WebSocket",
+    "status": "Pending",
+    "assignedTo": "Kabir Khan",
+    "priority": "high",
+    "dueDate": "2025-12-20",
+    "labels": ["feature", "realtime"],
+    "createdAt": "2025-11-20"
+  },
+  {
+    "id": 11,
+    "title": "Add task priority and due date fields",
+    "status": "Completed",
+    "assignedTo": "Amit Sharma",
+    "priority": "critical",
+    "dueDate": "2025-11-10",
+    "labels": ["feature"],
+    "createdAt": "2025-10-25"
+  },
+  {
+    "id": 12,
+    "title": "Migrate legacy tasks to new database schema",
+    "status": "In Progress",
+    "assignedTo": "Aditya Rao",
+    "priority": "medium",
+    "dueDate": "2025-12-08",
+    "labels": ["migration", "backend"],
+    "createdAt": "2025-11-12"
+  },
+  {
+    "id": 13,
+    "title": "Conduct user interviews for v2 features",
+    "status": "Pending",
+    "assignedTo": "Meera Iyer",
+    "priority": "medium",
+    "dueDate": "2025-12-18",
+    "labels": ["research", "ux"],
+    "createdAt": "2025-11-24"
+  },
+  {
+    "id": 14,
+    "title": "Update company branding guidelines",
+    "status": "In Progress",
+    "assignedTo": "Diya Khanna",
+    "priority": "low",
+    "dueDate": "2025-12-25",
+    "labels": ["design", "brand"],
+    "createdAt": "2025-11-10"
+  },
+  {
+    "id": 15,
+    "title": "Fix memory leak in task drag & drop",
+    "status": "Pending",
+    "assignedTo": "Ishaan Gupta",
+    "priority": "high",
+    "dueDate": "2025-11-29",
+    "labels": ["bug", "urgent"],
+    "createdAt": "2025-11-27"
+  },
+  {
+    "id": 16,
+    "title": "Add export to PDF functionality",
+    "status": "Pending",
+    "assignedTo": null,
+    "priority": "medium",
+    "dueDate": "2025-12-30",
+    "labels": ["feature"],
+    "createdAt": "2025-11-23"
+  },
+  {
+    "id": 17,
+    "title": "Implement role-based access control",
+    "status": "In Progress",
+    "assignedTo": "Priya Verma",
+    "priority": "critical",
+    "dueDate": "2025-12-01",
+    "labels": ["security", "backend"],
+    "createdAt": "2025-11-08"
+  },
+  {
+    "id": 18,
+    "title": "Create marketing website copy",
+    "status": "Completed",
+    "assignedTo": "Tara Bhatia",
+    "priority": "medium",
+    "dueDate": "2025-11-12",
+    "labels": ["copywriting", "marketing"],
+    "createdAt": "2025-11-01"
+  },
+  {
+    "id": 19,
+    "title": "Set up monitoring with Sentry",
+    "status": "Completed",
+    "assignedTo": "Vikram Singh",
+    "priority": "high",
+    "dueDate": "2025-11-22",
+    "labels": ["devops", "monitoring"],
+    "createdAt": "2025-11-15"
+  },
+  {
+    "id": 20,
+    "title": "Design new pricing page",
+    "status": "Pending",
+    "assignedTo": "Rahul Mehta",
+    "priority": "high",
+    "dueDate": "2025-12-05",
+    "labels": ["design", "revenue"],
+    "createdAt": "2025-11-21"
+  },
+  {
+    "id": 21,
+    "title": "Add task comments and @mentions",
+    "status": "Pending",
+    "assignedTo": "Amit Sharma",
+    "priority": "medium",
+    "dueDate": "2025-12-12",
+    "labels": ["feature", "collaboration"],
+    "createdAt": "2025-11-19"
+  },
+  {
+    "id": 22,
+    "title": "Prepare Q4 product roadmap presentation",
+    "status": "In Progress",
+    "assignedTo": "Neha Kapoor",
+    "priority": "high",
+    "dueDate": "2025-12-03",
+    "labels": ["product", "presentation"],
+    "createdAt": "2025-11-25"
+  },
+  {
+    "id": 23,
+    "title": "Run accessibility audit",
+    "status": "Pending",
+    "assignedTo": "Meera Iyer",
+    "priority": "medium",
+    "dueDate": "2025-12-20",
+    "labels": ["a11y", "compliance"],
+    "createdAt": "2025-11-20"
+  },
+  {
+    "id": 24,
+    "title": "Implement rate limiting on API",
+    "status": "Completed",
+    "assignedTo": "Priya Verma",
+    "priority": "high",
+    "dueDate": "2025-11-25",
+    "labels": ["security", "backend"],
+    "createdAt": "2025-11-18"
+  },
+  {
+    "id": 25,
+    "title": "Create employee onboarding checklist",
+    "status": "Completed",
+    "assignedTo": "Sanya Reddy",
+    "priority": "low",
+    "dueDate": "2025-11-10",
+    "labels": ["hr"],
+    "createdAt": "2025-11-05"
+  },
+  {
+    "id": 26,
+    "title": "Add task dependencies",
+    "status": "Pending",
+    "assignedTo": "Rohan Patel",
+    "priority": "medium",
+    "dueDate": "2026-01-10",
+    "labels": ["feature", "planning"],
+    "createdAt": "2025-11-22"
+  },
+  {
+    "id": 27,
+    "title": "Design celebration animation for task completion",
+    "status": "In Progress",
+    "assignedTo": "Ananya Desai",
+    "priority": "low",
+    "dueDate": "2025-12-18",
+    "labels": ["fun", "animation"],
+    "createdAt": "2025-11-20"
+  },
+  {
+    "id": 28,
+    "title": "Migrate to React 19",
+    "status": "Pending",
+    "assignedTo": "Aditya Rao",
+    "priority": "medium",
+    "dueDate": "2026-01-15",
+    "labels": ["upgrade", "tech-debt"],
+    "createdAt": "2025-11-26"
+  },
+  {
+    "id": 29,
+    "title": "Set up automated backup system",
+    "status": "Completed",
+    "assignedTo": "Vikram Singh",
+    "priority": "critical",
+    "dueDate": "2025-11-20",
+    "labels": ["infrastructure", "backup"],
+    "createdAt": "2025-11-10"
+  },
+  {
+    "id": 30,
+    "title": "Launch employee recognition program",
+    "status": "Pending",
+    "assignedTo": "Sanya Reddy",
+    "priority": "low",
+    "dueDate": "2025-12-31",
+    "labels": ["culture", "hr"],
+    "createdAt": "2025-11-15"
+  }
+]
