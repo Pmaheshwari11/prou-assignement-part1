@@ -53,8 +53,8 @@ This project was developed as part of the **ProU Technology Online Assessment (T
 
 ### 1. Clone the Repository
 
-git clone https://github.com/Pmaheshwari11/swms.git
-cd swms-frontend
+git clone https://github.com/Pmaheshwari11/prou-assignment-part1.git
+cd prou-assignment-part1
 
 ### 2. Install Dependencies
 
