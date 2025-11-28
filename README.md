@@ -7,18 +7,21 @@ This project was developed as part of the **ProU Technology Online Assessment (T
 ## Features
 
 ### Dashboard
+
 - Visual analytics using charts
 - Task status distribution (Pie Chart)
 - Tasks per employee (Bar Chart)
 - Summary cards for employees, tasks, and completion rate
 
 ### Employee Management
+
 - Search by employee name or role
 - Department-based filtering
 - Clean, responsive employee cards
 - Animated grid layout
 
 ### Task Management (Kanban Board)
+
 - Drag and drop tasks between statuses
 - Task priority filtering
 - Search tasks by title or description
@@ -26,6 +29,7 @@ This project was developed as part of the **ProU Technology Online Assessment (T
 - Assigned employee avatars
 
 ### UI & UX
+
 - Fully responsive design
 - Dark and light mode with persistent theme
 - Smooth animations using Framer Motion
@@ -34,6 +38,7 @@ This project was developed as part of the **ProU Technology Online Assessment (T
 ## Tech Stack
 
 ### Frontend
+
 - Reactjs (Create React App)
 - Tailwind CSS
 - Framer Motion
@@ -41,19 +46,22 @@ This project was developed as part of the **ProU Technology Online Assessment (T
 - Lucide React Icons
 
 ### Data
-- Mock JSON data 
+
+- Mock JSON data
 
 ## Setup Instructions
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/swms-frontend.git
+git clone https://github.com/Pmaheshwari11/swms.git
 cd swms-frontend
 
 ### 2. Install Dependencies
+
 npm install
 
 ### 3. Run the Application
+
 npm start
 
 ## Screenshots
